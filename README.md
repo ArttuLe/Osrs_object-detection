@@ -17,3 +17,9 @@ Faster_rcnn_resnet50_v1_640x640 from Tensorflows object detection ZOO was the pr
    
    
    
+   
+<div align="center">
+    <img src="/pictures/screenshot.jpg" width="400px"</img> 
+</div>
+   
+   
