@@ -1,6 +1,8 @@
 # Old school runescape object detection model
 
-A model trained with Tensorflows object detection API to detect ores in oldschool runescape
+A model trained with Tensorflows object detection API to detect ores in oldschool runescape.
+
+Faster_rcnn_resnet50_v1_640x640 from Tensorflows object detection ZOO was the pretrained model used in training.
 
     -Images folder contains folders for training and testing images with corresponding xml annotations.
 
