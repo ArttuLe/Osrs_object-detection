@@ -1,0 +1,36 @@
+item {
+    id: 1
+    name: 'gold'
+}
+item {
+    id: 2
+    name: 'iron'
+}
+item {
+    id: 3
+    name: 'clay'
+}
+item {
+    id: 4
+    name: 'tin'
+}
+item {
+    id: 5
+    name: 'copper'
+}
+item {
+    id: 6
+    name: 'depleted'
+}
+item {
+    id: 7
+    name: 'granite'
+}
+item {
+    id: 8
+    name: 'coal'
+}
+item {
+    id: 9
+    name: 'sandstone'
+}
